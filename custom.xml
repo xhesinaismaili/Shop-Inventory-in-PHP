@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+
+	<display_preload graphic_color="E0007A" loop="yes" play="no">Loading…</display_preload>
+
+	<skip_intro display="yes" graphic_color="F9CCE4" link="indexx.php">Skip introduction</skip_intro>
+
+	<music_file loop="yes" graphic_color="E31A87" music_control="yes" play_music="yes" file="sound/relax.mp3">sound_text</music_file>
+
+	<video_file file="">video_text</video_file>
+
+	
+	<header_text color="F9CCE4" font_size="15"><![CDATA[Xhesi SHOP Inventory System]]></header_text>
+	<header_text color="F399CA" font_size="12"><![CDATA[BATH and BODY]]></header_text>
+	<header_text color="F9CCE4" font_size="12"><![CDATA[MAKE-UP]]></header_text>
+	<header_text color="E31A87" font_size="12"><![CDATA[Xhesi ISMAILI]]></header_text>
+
+	<header_text color="FFFFFF" font_size="12"><![CDATA[FACE PERFECTION]]></header_text>
+
+	<header_text color="F9CCE4" font_size="12"><![CDATA[LUXURY]]></header_text>
+	<header_text color="E31A87" font_size="12"><![CDATA[PLESKIN CAREASURE]]></header_text>
+	<header_text color="F399CA" font_size="12"><![CDATA[Xhesi Ismaili]]></header_text>
+</configuration>
